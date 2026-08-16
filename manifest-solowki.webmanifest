@@ -1,0 +1,33 @@
+{
+  "id": "/najlepsze-polskie-solowki/",
+  "name": "Najlepsze Polskie Solówki",
+  "short_name": "Polskie Solówki",
+  "description": "Interaktywny konspekt Najlepsze Polskie Solówki od Wujka Szpona.",
+  "lang": "pl",
+  "start_url": "/najlepsze-polskie-solowki/",
+  "scope": "/najlepsze-polskie-solowki/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://wujekszpon.github.io/najlepsze-polskie-solowki/manifest-solowki.webmanifest",
+      "id": "https://wujekszpon.github.io/najlepsze-polskie-solowki/"
+    }
+  ],
+  "icons": [
+    {
+      "src": "./pwa-solowki-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-solowki-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
