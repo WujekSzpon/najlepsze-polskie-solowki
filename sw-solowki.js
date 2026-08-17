@@ -1,7 +1,8 @@
-const CACHE_NAME = 'najlepsze-polskie-solowki-v1';
+const CACHE_NAME = 'najlepsze-polskie-solowki-v2';
 const APP_SHELL = [
   './',
   './manifest-solowki.webmanifest',
+  './branding/najlepsze-polskie-solowki-kwadrat.png',
   './pwa-solowki-192.png',
   './pwa-solowki-512.png'
 ];
