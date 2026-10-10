@@ -1,4 +1,4 @@
-const CACHE_NAME = 'najlepsze-polskie-solowki-v3';
+const CACHE_NAME = 'najlepsze-polskie-solowki-v4';
 const APP_SHELL = [
   './',
   './manifest-solowki.webmanifest',
